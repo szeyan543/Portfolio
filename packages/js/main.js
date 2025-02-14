@@ -1,7 +1,6 @@
 /*==================== HOME INTRO CAROUSEL ====================*/
 const carouselText = [
-  "Software Engineer",
-  "CS Graduate Student",
+  "CS-CEE Double Master",
   "Explorer",
   "Life Long Learner!"
 ]
